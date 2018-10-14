@@ -3,7 +3,7 @@
   :url "http://example.com/FIXME"
 
   :dependencies [[org.clojure/clojure "1.9.0"]
-            		 [com.vaadin/vaadin-server "7.3.1" :exclusions [
+                 [com.vaadin/vaadin-server "7.3.1" :exclusions [
                       [com.vaadin.external.flute/flute]
                       [com.vaadin.external.google/guava]]]
                  [com.vaadin/vaadin-client-compiled "7.3.1"]
